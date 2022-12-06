@@ -1,0 +1,2 @@
+# Proa-4.0-Equipe-4-Java-2022-2-Semestre-exemplos
+Lista de exemplos utilizados em aula para lecionar Java Core no projeto Proa-4.0-Equipe-4-Java-2022-2-Semestre
